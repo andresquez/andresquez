@@ -1,6 +1,6 @@
 <h1 align="center">Hello! my name is Andres Quezada 🧀</h1>
 <h3 align="center">I'm a passionate and dedicated Computer Science and IT Engineering student in my third year at Universidad del Valle de Guatemala. With a strong drive to make a positive impact on society, I am committed to achieving excellence in my field through innovation and continuous learning.</h3>
-
+<br />
 
 - 🔭 I’m currently pursuing **Computer Science and IT Engineering at Universidad del Valle de Guatemala**
 
