@@ -1,12 +1,10 @@
 <h1 align="center">Hello! my name is Andres Quezada 🧀</h1>
-<h3 align="center">I'm a passionate and dedicated Computer Science and IT Engineering student in my fourth year at Universidad del Valle de Guatemala. With a strong drive to make a positive impact on society, I am committed to achieving excellence in my field through innovation and continuous learning.</h3>
+<h3 align="center">I'm a passionate and dedicated Computer Science and IT Engineering student in my fifth year at Universidad del Valle de Guatemala. With a strong drive to make a positive impact on society, I am committed to achieving excellence in my field through innovation and continuous learning.</h3>
 <br />
 
-- 💼 I'm currently working as a **Full Stack Web Developer at Lomax Technologies.**
+- 💼 I'm currently working as a **Full Stack Developer at Lomax Technologies.**
 
 - 🔭 I’m currently pursuing **Computer Science and IT Engineering at Universidad del Valle de Guatemala**
-
-- 🌱 I’m currently learning **web development, database management, UI/UX, etc.**
 
 - 📫 Reach me at: **andresequez@gmail.com**
 
@@ -15,7 +13,7 @@
 <a href="https://instagram.com/andres__quez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andres__quez" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I'm learning:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
